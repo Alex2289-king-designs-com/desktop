@@ -71,7 +71,7 @@
     "clean-webpack-plugin": "^0.1.19",
     "codecov": "^3.7.1",
     "cross-env": "^5.0.5",
-    "css-loader": "^2.1.0",
+    "css-loader": "^5.0.0",
     "eslint": "^7.3.1",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-babel": "^5.3.1",
