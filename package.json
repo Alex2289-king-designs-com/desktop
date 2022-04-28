@@ -97,7 +97,7 @@
     "prettier": "2.0.5",
     "request": "^2.72.0",
     "rimraf": "^2.5.2",
-    "sass": "^1.27.0",
+    "sass": "^1.50.0",
     "sass-loader": "^10.0.3",
     "semver": "^5.5.0",
     "spectron": "^11.1.0",
