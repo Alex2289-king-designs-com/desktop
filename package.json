@@ -76,7 +76,7 @@
     "express": "^4.15.0",
     "fake-indexeddb": "^2.0.4",
     "file-loader": "^6.2.0",
-    "front-matter": "^2.3.0",
+    "front-matter": "^4.0.1",
     "fs-extra": "^9.0.1",
     "glob": "^7.1.2",
     "html-webpack-plugin": "^5.5.0",
